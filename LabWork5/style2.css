@@ -2,13 +2,20 @@ div{
 padding:15x;
   }
 li{
-  color: red;
+  color: purple;
   text-decoration: underline;
+  list-style-type: none;
 }
 img{
   height:150px;
   width:160px;
   float:right;
+}
+h3{
+  font-size:25px;
+  font-weigth:900;
+  padding: 0px 50px;
+  left: 50px;
 }
 #header_style{
     background-color: #d6cbd3;
