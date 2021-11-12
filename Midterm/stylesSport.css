@@ -29,8 +29,11 @@
   #table-left{
     float:left;
     width:30%;
+    
   }
 #table-right{
   float:right;
   width:70%;
+
+
 }
