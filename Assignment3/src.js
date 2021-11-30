@@ -5,7 +5,8 @@ click1 = function(){
 }
 
 setup = function() {
-jQuery('#divContainer img').on('click', click1)
+jQuery('.imgStyle').on('click', click1)
+
 }
 
 jQuery(document).ready(setup)
